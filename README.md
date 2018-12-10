@@ -9,7 +9,7 @@ The purpose of this application is help people to know more about me,what i like
 * in a simple
 * easy-to-understand
 * format
-{switch on your computer,log in to internet,open your terminal and create every folder you'll need then open it's html and css}
+switch on your computer,log in to internet,open your terminal and create every folder you'll need then open it's html and css
 
 ## Technologies Used
 To create this application ,I probably used linux terminal ,HTML and CSS 
