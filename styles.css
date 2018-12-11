@@ -1,6 +1,7 @@
 #image{
-  padding-right:20%;
-
+  padding-right:5%;
+  transform: rotate(90deg);
+  
 }
 #background{
     background-color:white;
